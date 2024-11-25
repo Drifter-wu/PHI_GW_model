@@ -1,2 +1,2 @@
-# PE_3body
+# GR
 Test GR
