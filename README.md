@@ -1,2 +1,1 @@
-# GR
-$\alpha$
+$\PHI$ gravitational waveform model
