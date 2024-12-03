@@ -1,1 +1,1 @@
-$\PHI$ gravitational waveform model
+$\Psi$ gravitational waveform model
