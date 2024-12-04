@@ -56,7 +56,7 @@ where $\Omega_{lm}$ is the orbital frequency, through this equation, we can get 
 ```
 The equation includes the following variables: $X$ is a constant related to the amplitude of the waveform, $\gamma$ is the Lyapunov exponent characterizing the rate of divergence of nearby null geodesics, $t_p$ is the time at maximum amplitude of the waveform and $\Phi_{22}(t)$ is the phase. 
 
-We can also derive the phase equation:
+We can also derive the phase equation: 
 ```math
 \tilde{\Phi}_{22}=& \int_{0}^{t} \Omega d t^{\prime}=\arctan _{+}+\operatorname{arctanh}_{+} \\
 &-\arctan _{-}-\operatorname{arctanh}_{-}-\phi_0,
