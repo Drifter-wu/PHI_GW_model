@@ -70,31 +70,35 @@ where
 ```
 
 
-\begin{equation}
+```math
 \kappa_{\pm} \equiv\left\{\Omega_{0}^{4} \pm k\left[1 \mp \tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\right\}^{1 / 4}\,,
-\end{equation}
+```
 
 
-\begin{equation}\label{attention1}
+```math
 \Omega=\left\{\Omega_{0}^{4}+k\left[\tanh \left(\frac{t-t_{p}}{\tau}\right)-\tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\right\}^{1 / 4}\,,
-\end{equation}
+```
 
-\begin{equation}\label{attention2}
+```math
 k=\left(\frac{\Omega_{\mathrm{QNM}}^{4}-\Omega_{0}^{4}}{1-\tanh \left[\left(t_{0}-t_{p}\right) / \tau\right]}\right)\,,
-\end{equation}\\
+```
+
 where $\tau=\gamma^{-1}$, ${{\Omega }_{\operatorname{QNM}}}$=$\omega_{\operatorname{QNM}}$/m($\Omega_{\operatorname{QNM}}$ is just $\omega_R$), and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
 
-We need to focus on Eqs.~(\ref{attention1}) and (\ref{attention2}) mentioned above. The inclusion of terms with an even power in these equations imposes an extra constraint on $\Omega_0$. Our objective is to determine the minimum value of $\Omega_0$, which can be achieved by equating the expression inside Eq.~(\ref{attention1}) to zero. This yields the following function:
-\begin{equation}\label{attention3}
-\Omega_{0}^{4}=k\left[-\tanh \left(\frac{t-t_{p}}{\tau}\right)+\tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\,.
-\end{equation}
-Substituting Eq.~(\ref{attention2}) into Eq.~(\ref{attention3}), we can get the solution of Eq.~(\ref{attention3})(we only consider the positive solution):
-\begin{equation}\label{Omega_min}
-{{\Omega }_{0}}^{4}=\frac{{{\Omega }_{\text{QNM}}}^{4}(\tanh [\frac{t-{{t}_{p}}}{\tau }]-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])}{(-1+\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])(1-\frac{\tanh [\frac{t-{{t}_{p}}}{\tau }]}{1-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]}+\frac{\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]}{1-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]})}\,.
-\end{equation}\\
+Including terms with an even power in these equations imposes an extra constraint on $\Omega_0$. Our objective is to determine the minimum value of $\Omega_0$, which can be achieved by equating the expression inside Eq.~(\ref{attention1}) to zero. This yields the following function:
 
-With Eq.~(\ref{Omega_min}), we get the minimum value of $\Omega_0$. For convenience, we choose $t$ equal to $t_p$, so Eq.~(\ref{Omega_min}) can be simplified to this form:
-\begin{equation}\label{Omega_min_simplify}
+```math
+\Omega_{0}^{4}=k\left[-\tanh \left(\frac{t-t_{p}}{\tau}\right)+\tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\,.
+```
+
+We can get the solution of ${{\Omega }_{0}}^{4}$(we only consider the positive solution):
+
+```math
+{{\Omega }_{0}}^{4}=\frac{{{\Omega }_{\text{QNM}}}^{4}(\tanh [\frac{t-{{t}_{p}}}{\tau }]-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])}{(-1+\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])(1-\frac{\tanh [\frac{t-{{t}_{p}}}{\tau }]}{1-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]}+\frac{\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]}{1-\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }]})}\,.
+```
+
+Then we get the minimum value of $\Omega_0$. For convenience, we choose $t$ equal to $t_p$, so ${{\Omega }_{0}}^{4}$ can be simplified to this form:
+```math
 {{\Omega }_{0}}^{4}={{\Omega }_{\text{QNM}}}^{4}(\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])\,.
-\end{equation}\\
+```
 Thus, we obtain the minimum value of $\Omega_0$ is $\Omega_{\operatorname{QNM}}$(i.e. the region of $\Omega_0$ is $\Omega_0 \textgreater \Omega_{\operatorname{QNM}}$). 
