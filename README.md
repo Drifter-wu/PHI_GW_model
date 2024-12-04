@@ -83,7 +83,7 @@ where
 k=\left(\frac{\Omega_{\mathrm{QNM}}^{4}-\Omega_{0}^{4}}{1-\tanh \left[\left(t_{0}-t_{p}\right) / \tau\right]}\right)\,,
 ```
 
-where $\tau=\gamma^{-1}$, ${{\Omega }_{\mathrm{QNM}}}=\omega_{\mathrm{QNM}}/m$, and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
+where $\tau=\gamma^{-1}$, ${{\Omega }_{\mathrm{QNM}}} \omega_{\mathrm{QNM}}/m$, and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
 
 Including terms with an even power in these equations imposes an extra constraint on $\Omega_0$. Our objective is to determine the minimum value of $\Omega_0$, which can be achieved by equating the expression inside Eq.~(\ref{attention1}) to zero. This yields the following function:
 
