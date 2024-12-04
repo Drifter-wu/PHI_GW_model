@@ -39,4 +39,6 @@ $\Omega_{\mathrm{prec}}=\Delta\phi_{\mathrm{prec} }/T_{\theta}$
 
 $L=l+1/2$.
 
-The values of $l$ and $m$ could be determined through the conditions: $V^{r}\left(r, \omega_{R}\right)=\left.\frac{\partial V^{r}}{\partial r}\right|_{\left(r, \omega_{R}\right)}=0$, and $V^r$ is the potential in the radial Teukolsky equation. The imaginary component of QNMs, $\omega_I$, is directly linked to the Lyapunov exponents, which determine the rate at which a circular null geodesic expands its cross-sectional area under infinitesimal radial perturbations. 
+The values of $l$ and $m$ could be determined through the conditions: 
+$V^{r}\left(r, \omega_{R}\right)=\left.\frac{\partial V^{r}}{\partial r}\right|_{\left(r, \omega_{R}\right)}=0$, 
+and $V^r$ is the potential in the radial Teukolsky equation. The imaginary component of QNMs, $\omega_I$, is directly linked to the Lyapunov exponents, which determine the rate at which a circular null geodesic expands its cross-sectional area under infinitesimal radial perturbations. 
