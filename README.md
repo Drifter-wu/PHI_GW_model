@@ -83,7 +83,7 @@ where
 k=\left(\frac{\Omega_{\mathrm{QNM}}^{4}-\Omega_{0}^{4}}{1-\tanh \left[\left(t_{0}-t_{p}\right) / \tau\right]}\right)\,,
 ```
 
-where $\tau=\gamma^{-1}$, ${{\Omega }_{\operatorname{QNM}}}$=$\omega_{\operatorname{QNM}}$/m($\Omega_{\operatorname{QNM}}$ is just $\omega_R$), and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
+where $\tau=\gamma^{-1}$, ${{\Omega }_{\mathrm{QNM}}}$=$\omega_{\mathrm{QNM}}$/m($\Omega_{\mathrm{QNM}}$ is just $\omega_R$), and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
 
 Including terms with an even power in these equations imposes an extra constraint on $\Omega_0$. Our objective is to determine the minimum value of $\Omega_0$, which can be achieved by equating the expression inside Eq.~(\ref{attention1}) to zero. This yields the following function:
 
@@ -101,4 +101,4 @@ Then we get the minimum value of $\Omega_0$. For convenience, we choose $t$ equa
 ```math
 {{\Omega }_{0}}^{4}={{\Omega }_{\text{QNM}}}^{4}(\tanh [\frac{{{t}_{0}}-{{t}_{p}}}{\tau }])\,.
 ```
-Thus, we obtain the minimum value of $\Omega_0$ is $\Omega_{\operatorname{QNM}}$(i.e. the region of $\Omega_0$ is $\Omega_0 \textgreater \Omega_{\operatorname{QNM}}$). 
+Thus, we obtain the minimum value of $\Omega_0$ is $\Omega_{\mathrm{QNM}}$(i.e. the region of $\Omega_0$ is $\Omega_0 \textgreater \Omega_{\mathrm{QNM}}$). 
