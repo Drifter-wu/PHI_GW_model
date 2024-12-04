@@ -31,12 +31,10 @@ where $\Omega_{\theta}$ indicates the frequency of polar motion, which is the ra
 
 In addition to polar motion, the particle also undergoes a periodic motion in the azimuthal ($\phi$) direction with respect to the oscillation period, $T_{\theta}$, and the magnitude, $\Delta \phi$. The deviation between $\Delta \phi$ and $\pm 2\pi$ is commonly known as the "precession angle":
 
-\begin{equation}
-\Delta \phi_{\mathrm{prec} }=\Delta \phi -\begin{cases}
--4\pi\quad(\mathrm{corotating \; orbit} ) \\
-+4\pi\quad(\mathrm{couterrotating \; orbit})
-\end{cases}
-\end{equation}
+
+$\Delta \phi_{\mathrm{prec} }=\Delta \phi +4\pi\quad(\mathrm{corotating \; orbit} )$
+$\Delta \phi_{\mathrm{prec} }=\Delta \phi -4\pi\quad(\mathrm{couterrotating \; orbit})$
+
 
 $\Omega_{\mathrm{prec}}=\Delta\phi_{\mathrm{prec} }/T_{\theta}$
 
