@@ -85,7 +85,7 @@ k=\left(\frac{\Omega_{\mathrm{QNM}}^{4}-\Omega_{0}^{4}}{1-\tanh \left[\left(t_{0
 
 where $\tau=\gamma^{-1}$,
 ```math
-{{\Omega }_{\mathrm{QNM}}}$=$\omega_{\mathrm{QNM}}$/m($\Omega_{\mathrm{QNM}}$ is just $\omega_R$)
+{{\Omega }_{\mathrm{QNM}}}=\omega_{\mathrm{QNM}}/m(\Omega_{\mathrm{QNM}} is just \omega_R)
 ```
 and $\phi_0$, $\Omega_0$, $t_0$ are the constants that can be freely chosen.
 
