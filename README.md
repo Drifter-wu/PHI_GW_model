@@ -30,17 +30,16 @@ $\omega_R=L\Omega_{\theta}(m/L)+m\Omega_{\mathrm{prec}}(m/L)$
 where $\Omega_{\theta}$ indicates the frequency of polar motion, which is the rate at which the photon oscillates above and below the equatorial plane. The oscillation period can be calculated using the formula, $T_{\theta}=2\pi/\Omega_{\theta}$.
 
 In addition to polar motion, the particle also undergoes a periodic motion in the azimuthal ($\phi$) direction with respect to the oscillation period, $T_{\theta}$, and the magnitude, $\Delta \phi$. The deviation between $\Delta \phi$ and $\pm 2\pi$ is commonly known as the "precession angle":
+
 \begin{equation}
 \Delta \phi_{\mathrm{prec} }=\Delta \phi -\begin{cases}
 -4\pi\quad(\mathrm{corotating \; orbit} ) \\
 +4\pi\quad(\mathrm{couterrotating \; orbit})
 \end{cases}
 \end{equation}
-\begin{equation}
-\Omega_{\mathrm{prec}}=\Delta\phi_{\mathrm{prec} }/T_{\theta}
-\end{equation}
-\begin{equation}
-L=l+1/2.
-\end{equation}
+
+$\Omega_{\mathrm{prec}}=\Delta\phi_{\mathrm{prec} }/T_{\theta}$
+
+$L=l+1/2$.
 
 The values of $l$ and $m$ could be determined through the conditions:$V^{r}\left(r, \omega_{R}\right)=\left.\frac{\partial V^{r}}{\partial r}\right|_{\left(r, \omega_{R}\right)}=0$, and $V^r$ is the potential in the radial Teukolsky equation. The imaginary component of QNMs, $\omega_I$, is directly linked to the Lyapunov exponents, which determine the rate at which a circular null geodesic expands its cross-sectional area under infinitesimal radial perturbations. 
