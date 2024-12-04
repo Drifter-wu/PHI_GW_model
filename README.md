@@ -45,13 +45,13 @@ V^{r}\left(r, \omega_{R}\right)=\left.\frac{\partial V^{r}}{\partial r}\right|_{
 ```
 and $V^r$ is the potential in the radial Teukolsky equation. The imaginary component of QNMs, $\omega_I$, is directly linked to the Lyapunov exponents, which determine the rate at which a circular null geodesic expands its cross-sectional area under infinitesimal radial perturbations. 
 
-The amplitude of the gravitational wave can be expressed as follows, based on \cite{McWilliams_19} \cite{BOB_b}
-\begin{equation}
+The amplitude of the gravitational wave can be expressed as follows
+```math
 {{\left| {{h}_{lm}} \right|}^{2}}\sim \frac{d}{dt}\left( {{\Omega }_{lm}}^{2} \right)\,,
-\end{equation}
+```
 where $\Omega_{lm}$ is the orbital frequency, through this equation, we can get the equation of the GW waveform:
 
-${h}_{22}=X \operatorname{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,$
+${h}_{22}=X \operatorname{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,
 The equation includes the following variables: $X$ is a constant related to the amplitude of the waveform, $\gamma$ is the Lyapunov exponent characterizing the rate of divergence of nearby null geodesics, $t_p$ is the time at maximum amplitude of the waveform and $\Phi_{22}(t)$ is the phase. 
 
 We can also derive the phase equation:
