@@ -63,10 +63,12 @@ We can also derive the phase equation:
 
 where
 ```math
+\left\{\begin{array}{c}
 \arctan _{\pm} \equiv \kappa_{\pm} \tau\left[\arctan \left(\frac{\Omega}{\kappa_{\pm}}\right)-\arctan \left(\frac{\Omega_{0}}{\kappa_{\pm}}\right)\right]\,, \\
 \arctan \mathrm{h}_{\pm} \equiv \kappa_{\pm} \tau\left[\arctan h\left(\frac{\Omega}{\kappa_{\pm}}\right)-\arctan h\left(\frac{\Omega_{0}}{\kappa_{\pm}}\right)\right]
 \end{array}\right.
 ```
+
 
 \begin{equation}
 \kappa_{\pm} \equiv\left\{\Omega_{0}^{4} \pm k\left[1 \mp \tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\right\}^{1 / 4}\,,
