@@ -58,8 +58,7 @@ The equation includes the following variables: $X$ is a constant related to the 
 
 We can also derive the phase equation: 
 ```math
-\tilde{\Phi}_{22}=& \int_{0}^{t} \Omega d t^{\prime}=\arctan _{+}+\operatorname{arctanh}_{+} \\
-&-\arctan _{-}-\operatorname{arctanh}_{-}-\phi_0,
+\tilde{\Phi}_{22}= \int_{0}^{t} \Omega d t^{\prime}=\arctan _{+}+\operatorname{arctanh}_{+} -\arctan _{-}-\operatorname{arctanh}_{-}-\phi_0,
 ```
 
 where
