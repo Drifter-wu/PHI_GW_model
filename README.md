@@ -52,7 +52,7 @@ The amplitude of the gravitational wave can be expressed as follows
 where $\Omega_{lm}$ is the orbital frequency, through this equation, we can get the equation of the GW waveform:
 
 ```math
-{h}_{22}=X \operatorname{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,
+{h}_{22}=X \mathrm{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,
 ```
 The equation includes the following variables: $X$ is a constant related to the amplitude of the waveform, $\gamma$ is the Lyapunov exponent characterizing the rate of divergence of nearby null geodesics, $t_p$ is the time at maximum amplitude of the waveform and $\Phi_{22}(t)$ is the phase. 
 
