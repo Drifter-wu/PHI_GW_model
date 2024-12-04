@@ -8,6 +8,6 @@ $\phi_{\mathrm{Ins}}=  \phi_{\mathrm{TF} 2}(M f ; \Xi)  +\frac{1}{\eta}\left(\si
 
 where $\eta=m_1 m_2/M^2$, $M = m_1+m_2$, the $\phi_{\mathrm{TF} 2}$ is the full TaylorF2 phase:
 
-$\phi_{\mathrm{TF} 2}= & 2 \pi f t_{c}-\varphi_{c}-\pi / 4  +\frac{3}{128 \eta}(\pi f M)^{-5 / 3} \sum_{i=0}^{7} \varphi_{i}(\Xi)(\pi f M)^{i / 3}$
+$\phi_{\mathrm{TF} 2}=  2 \pi f t_{c}-\varphi_{c}-\pi / 4  +\frac{3}{128 \eta}(\pi f M)^{-5 / 3} \sum_{i=0}^{7} \varphi_{i}(\Xi)(\pi f M)^{i / 3}$
 
 The constants $\sigma_{i}$ (where $i = 0, 1, 2, 3, 4$) represent the correlation between the mass and spin of the system. Meanwhile, the phase deformation arising from the general parameterized black hole is denoted by $\phi_{\mathrm{KRZ}}$. Varying the values of $\delta_1$, $\delta_2$, $\delta_4$, and $\delta_6$ will result in different phases. $\varphi_{i}(\Xi)$ are the PN expansion coefficients that are related to the intrinsic binary parameters. 
