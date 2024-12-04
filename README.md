@@ -51,24 +51,24 @@ The amplitude of the gravitational wave can be expressed as follows
 ```
 where $\Omega_{lm}$ is the orbital frequency, through this equation, we can get the equation of the GW waveform:
 
-${h}_{22}=X \operatorname{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,
+```math
+{h}_{22}=X \operatorname{sech}\left[\gamma\left(t-t_{p}\right)\right] e^{-i \tilde{\Phi}_{22}(t)}\,
+```
 The equation includes the following variables: $X$ is a constant related to the amplitude of the waveform, $\gamma$ is the Lyapunov exponent characterizing the rate of divergence of nearby null geodesics, $t_p$ is the time at maximum amplitude of the waveform and $\Phi_{22}(t)$ is the phase. 
 
 We can also derive the phase equation:
-\begin{equation}
-\begin{aligned}
+```math
 \tilde{\Phi}_{22}=& \int_{0}^{t} \Omega d t^{\prime}=\arctan _{+}+\operatorname{arctanh}_{+} \\
 &-\arctan _{-}-\operatorname{arctanh}_{-}-\phi_0,
-\end{aligned}
-\end{equation}
+```
 
 where
-\begin{equation}
-\left\{\begin{array}{c}
+```math
 \arctan _{\pm} \equiv \kappa_{\pm} \tau\left[\arctan \left(\frac{\Omega}{\kappa_{\pm}}\right)-\arctan \left(\frac{\Omega_{0}}{\kappa_{\pm}}\right)\right]\,, \\
 \arctan \mathrm{h}_{\pm} \equiv \kappa_{\pm} \tau\left[\arctan h\left(\frac{\Omega}{\kappa_{\pm}}\right)-\arctan h\left(\frac{\Omega_{0}}{\kappa_{\pm}}\right)\right]
 \end{array}\right.
-\end{equation}
+```
+
 \begin{equation}
 \kappa_{\pm} \equiv\left\{\Omega_{0}^{4} \pm k\left[1 \mp \tanh \left(\frac{t_{0}-t_{p}}{\tau}\right)\right]\right\}^{1 / 4}\,,
 \end{equation}
